@@ -1,0 +1,63 @@
+/* Exercice n°2 : La minute zoologique inutile - styles.css */
+
+html {
+    background: silver;
+    font-family: "Helvetica", "Arial", sans-serif;
+}
+
+main {
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background: white;
+}
+
+h1 {
+    padding: 0 0 15px;
+    border-bottom: 1px solid #888;
+    font-size: 30px;
+    color: #c30;
+}
+
+h1 small {
+    font-size: 11px;
+}
+
+h2 {
+    font-size: 24px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.25;
+}
+
+.introduction {
+    font-weight: bold;
+    color: rgb( 120, 120, 120 );
+}
+
+figure {
+    width: 480px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+i {
+    color: green;
+}
+
+#foot-note {
+    padding: 10px;
+    background: rgba( 180, 120, 120, .5 );
+    border: 1px solid red;
+    font-size: 12px;
+    color: black;
+}
+
+:link, :visited {
+    color: rgba( 80, 80, 200, .85 );
+    text-decoration: none;
+}
