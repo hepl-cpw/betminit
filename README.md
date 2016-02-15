@@ -26,7 +26,7 @@ Toutefois, le formatage HTML par défaut ne rend pas la page très belle à l’
 * La première ligne de cette feuille de style devra contenir un commentaire indiquant "*Exercice n°1 : La minute zoologique inutile - styles.css*".
 * Affectez une couleur de fond à la page.
 * Ciblez l’élément principal de la page et faites en sorte :
-    * que sa taille soit de `800px`,
+    * que sa largeur soit de `800px`,
     * qu’il soit centré horizontalement,
     * qu’il ait une couleur de fond différente de celle de la page,
     * qu’il ait un peu de *marge intérieure*, disons `10px`.
@@ -35,7 +35,7 @@ Toutefois, le formatage HTML par défaut ne rend pas la page très belle à l’
 * Changez la taille de texte du titre de niveau 2.
 * Faites en sorte d’agrandir un peu la taille de texte des paragraphes.
 * Le premier paragraphe de la page porte une classe nommée **introduction**. Son texte doit être en **gras** et dans une couleur différente.
-* Un élément `figure` contient une photo et sa légende. Cet élément doit avoir une taille de `480px` et être centré horizontalement.
+* Un élément `figure` contient une photo et sa légende. Cet élément doit avoir une largeur de `480px` et être centré horizontalement.
 * Vous remarquerez que le nom scientifique de l’animal est encapsulé dans une balise spécifique : faites en sorte que ce texte soit affiché dans une couleur distincte.
 * La petite note en bas de page a un identifiant nommé **foot-note**, cet élément doit avoir les styles suivants :
     * une couleur de fond spécifique et translucide,
