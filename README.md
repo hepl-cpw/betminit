@@ -1,10 +1,10 @@
-# CSS TP01/2 "Minute zoologique inutile"
+# CSS "Minute zoologique inutile"
 
-> CSS exercise given at HEPL - TP01/2
+> CSS exercise given at HEPL
 
 * * *
 
-**CSS TP01/2 "Minute zoologique inutile"** is an educational project, which will be used for `HTML`/`CSS` courses.
+**CSS "Minute zoologique inutile"** is an educational project, which will be used for `HTML`/`CSS` courses.
 
 **Note:** the school where the course is given, the [HEPL](http://www.provincedeliege.be/hauteecole) from Liège, Belgium, is a french-speaking school. From this point, the instruction will be in french. Sorry.
 
@@ -15,7 +15,7 @@
 
 * * *
 
-## TP01 - Exercice n°2 : La minute zoologique inutile
+## La minute zoologique inutile
 
 Vous trouverez dans ce dossier une page HTML nommée **index.html**. Cette page contient un petit article concernant un animal fascinant.  
 Toutefois, le formatage HTML par défaut ne rend pas la page très belle à l’œil : vous allez devoir créer une feuille de styles qui remédiera (un peu) à tout ça.
